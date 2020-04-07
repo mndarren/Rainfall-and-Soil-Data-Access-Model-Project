@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/junit-4.12/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/pdfbox-1.8.10/pdfbox-1.8.10.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/pdfbox-1.8.10/jempbox-1.8.10.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/pdfbox-1.8.10/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/pdfbox-1.8.10/fontbox-1.8.10.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/cssparser-0.9.5.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/htmlunit-2.9.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/htmlunit-core-js-2.9.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/httpmime-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/nekohtml-1.9.15.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/javaPractice/HMSInputProduce/lib/htmlunit-2.9/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
